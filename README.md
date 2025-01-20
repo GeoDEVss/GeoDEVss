@@ -15,7 +15,7 @@
 </p>
 
 <!-- Dropdown -->
-  <summary> 👨‍💻 Um pouco mais sobre mim:</summary>
+  👨‍💻 Um pouco mais sobre mim:
 
 <p>
   
@@ -83,11 +83,14 @@
     <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
     <img align="center" alt="Google" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg">
+    
   </div>
+
 
 </div>
 
-<!-- Portfolio -->
+
+
  <!-- GIF Section with Space Above -->
  <p align="center">
   <img align="center" src="https://i.pinimg.com/originals/12/ab/ba/12abba12c99a296bcfc43d60285cc58d.gif" alt="GIF" style="max-width: 30%; height: auto;">
